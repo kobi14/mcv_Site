@@ -1,0 +1,45 @@
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; // remove the gap so it doesn't close
+ }
+ .navbar-brand{
+    height: 50px;
+    padding-left: 1px;
+    padding-top: 0;
+    width: 50px;
+ }
+.navbar-brand>img {
+ 
+  height:60px;
+  width:60px;
+}
+body {
+    background-color:#4d4d4d;
+}
+	#gi{
+ 		 height: 240px;
+    width: 297px;
+     
+    background-color: #FFFFFF;
+}
+#gii{background-color: #057185;
+color: #a1cd3b;
+}
+#ggii{background-color: #8c8c8c;}
+
+#hi{
+    height: 106px;
+    width: 141px
+
+}
+footer{
+  background-color: #057185;
+ 
+}
+#cc{
+  height: 348px;
+}
+#ct{
+  height: 948px;
+  width: 948px;
+}
